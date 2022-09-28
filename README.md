@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-telegram. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 ## Overview
 
 Use Telegram for instant messaging within ONLYOFFICE editors interface. 
